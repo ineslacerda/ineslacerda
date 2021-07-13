@@ -2,7 +2,7 @@
 I'm Inês Lacerda, a passionate Master's degree student from Portugal. 
 
 - I’m currently working on VA Media as a web designer and developer. 
-- I am also working on my thesis on "Generating Realistic Sign Language Animations". This will be the first automatic Portuguese to Portuguese Sign Language translator that automatically incorporates linguistic movements to account for the morphosyntactic motions, and incorporates secondary facial and corporal movements to account for the naturalness of the avatar.
+- I am also working on my thesis on "Generating Realistic Sign Language Animations". This will be the first Portuguese text to Sign Language translator that automatically incorporates linguistic movements to account for the morphosyntactic motions, and incorporates secondary facial and corporal movements to account for the naturalness of the avatar.
  
 - ⚡ Fun fact: I'm a triplet, I play music and I'm learning Sign Language.
 <!--
