@@ -1,4 +1,4 @@
-### Hi there!
+### Hi there 😄
 
 I'm Inês Lacerda, a passionate Master's degree graduate from Portugal. 
 
