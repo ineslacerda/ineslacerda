@@ -1,4 +1,4 @@
-### Hi there 😄
+### Hi there 😄 ![](https://visitor-badge.laobi.icu/badge?page_id=ineslacerda)
 
 I'm Inês Lacerda, a passionate Master's degree graduate from Portugal. 
 
