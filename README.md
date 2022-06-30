@@ -23,6 +23,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I'm a triplet, I play music and I'm learning Sign Language.
 -->
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=ineslacerda&show_icons=true&locale=en&hide=prs,issues,contribs&count_private=true&include_all_commits=true" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=ineslacerda&show_icons=true&locale=en&hide=prs,issues,contribs&count_private=true&include_all_commits=true&hide_border=true" />
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ineslacerda&show_icons=true&hide_border=true" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ineslacerda&show_icons=true&hide_border=true&locale=en&layout=compact" />
